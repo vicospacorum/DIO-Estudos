@@ -10,9 +10,10 @@ https://web.digitalinnovation.one/project/recriando-a-pagina-inicial-do-instagra
 - CSS (Flexbox)
 
 ## Netflix
-### RRecriando a Interface do Netflix
+### Recriando a Interface do Netflix
 Lab desenvolvido pelo Felipe Aguiar:
 https://web.digitalinnovation.one/lab/recriando-a-interface-do-netflix/learning/58b5e5d3-9c23-4dc2-80b7-49e787bf050a
 
 #### Tecnologias
-- 
+- HTML5
+- CSS3

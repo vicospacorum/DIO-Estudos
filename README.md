@@ -1,5 +1,5 @@
 # ESTUDOS
-Coleção de estudos diversos com pouca ou nenhuma uilidade prática
+Coleção de Estudos Diversos
 
 ## Instagram
 ### Recriando a Página Inicial do Instagram

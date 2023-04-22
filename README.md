@@ -1,6 +1,14 @@
 # ESTUDOS
 Coleção de Estudos Diversos
 
+## HTML-01
+### Criar Uma Página Web Utilizando as Tags Aprendidas
+https://web.dio.me/project/criar-uma-pagina-web-utilizando-as-tags-aprendidas/learning/e2c3c07c-6b90-413b-ac5b-ae49a61aed9a
+
+#### Tecnologias
+- HTML
+
+
 ## Instagram
 ### Recriando a Página Inicial do Instagram
 Lab desenvolvido pela SpruceGabriela:
@@ -8,6 +16,7 @@ https://web.digitalinnovation.one/project/recriando-a-pagina-inicial-do-instagra
 
 #### Tecnologias
 - CSS (Flexbox)
+
 
 ## Netflix
 ### Recriando a Interface do Netflix
